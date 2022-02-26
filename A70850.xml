@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous history of Valentine and Orson being the two only sons of the Emperour of Greece : deciphering their wonderful births, their valiant atchievements, their heroical minds, and their noble enterprises : drawn up in a short volume ... / written by Laurence Price.</title>
+            <title>Valentin et Orson (French romance). English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70850</idno>
+            <idno type="STC">Wing P3361</idno>
+            <idno type="STC">ESTC R2011</idno>
+            <idno type="EEBO-CITATION">12306610</idno>
+            <idno type="OCLC">ocm 12306610</idno>
+            <idno type="VID">59282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 188:21, 847:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous history of Valentine and Orson being the two only sons of the Emperour of Greece : deciphering their wonderful births, their valiant atchievements, their heroical minds, and their noble enterprises : drawn up in a short volume ... / written by Laurence Price.</title>
+                  <title>Valentin et Orson (French romance). English.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Whitwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of the French prose romance, Valentin et Orson, the original of which was written between 1475 and 1489.</note>
+                  <note>This item appears at reel 188:21 as Wing H3797 (number cancelled in Wing 2nd ed.), and at reel 847:60 as Wing (CD-ROM, 1996) P3361.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:59282:1"/>
+            <pb facs="tcp:59282:1"/>
+            <pb facs="tcp:59282:2"/>
+            <p> 
+               <figure>
+                  <figDesc>a horse looks on as Empress Bellisant stands
+empty-handed in the forest, while a bear and King Pippin respectively take her
+two new-born sons, Orson and Valentine.</figDesc>
+                  <p>Pepin</p>
+                  <p>Orson</p>
+                  <p>Valentine</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:59282:2"/>
+            <p>The Famous HISTORY OF VALENTINE AND ORSON.</p>
+            <p>BEING The two only Sons of the Emperour of <hi>GREECE.</hi>
+            </p>
+            <p>Deciphering their wonderful Births, their Valiant Atchievements,
+their Heroi<g ref="char:EOLhyphen"/>cal Minds, and their Noble Enterpriſes.</p>
+            <p>Drawn up in a ſhort Volume, on pur<g ref="char:EOLhyphen"/>poſe to give the better
+ſatisfaction to them that deſire to hear and know the truth in few
+words.</p>
+            <p>Written by <hi>LA<g ref="char:V">Ʋ</g>RENCE PRICE.</hi>
+            </p>
+            <q>
+               <l>This little Book ſuch vertues doth contain,</l> 
+               <l>Hardly the like in all the World again.</l>
+            </q>
+            <p>LONDON, Printed for <hi>William Whitwood,</hi> at the ſign of
+the Bell in Duck Lane. 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:59282:3"/>
+            <pb facs="tcp:59282:3"/>
+            <head>The Famous HISTORY OF <hi>Valentine</hi> and
+<hi>Orſon.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>Chap. I.</hi> How the Lady <hi>Belliſant,</hi>
+ſiſter to King <hi>Pepin,</hi> was ſolemnly married to the Emperour of
+Greece, and how they departed towards <hi>Conſtantinople.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here Lived a worthy and re<g ref="char:EOLhyphen"/>nowned King in the famous Kingdom
+of <hi>France,</hi> called King <hi>Pepin,</hi> who had one on<g ref="char:EOLhyphen"/>ly ſiſter,
+whoſe name was fair <hi>Belliſant;</hi> this beautiful Lady was no leſs
+vertuous than comely, nor <pb facs="tcp:59282:4"/>no leſs
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then prudent, than both. She
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly beloved of all ſorts
+of people: the <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> loved her for
+her Clemency, the Gentry loved her for her fidelity, the Com<g ref="char:EOLhyphen"/>mons loved her for
+her ſweet behaviour, and the poor loved her for her Charity.</p>
+               <p>The ſame of this gallant Lady reſounded not only through the
+Principal Povinces of <hi>France,</hi> but through all the whole world; from
+one end to the other; ſo that to this La<g ref="char:EOLhyphen"/>dy came many a Princely Potentate,
+hoping to gain her good will in Marriage. Amongſt the reſt of her noble and
+renowned Suppli<g ref="char:EOLhyphen"/>ants, came the high and mighty Emperour of <hi>Greece,</hi> who
+after many daies ſpent in the Court of <hi>France,</hi> atchieved the
+beauteous La<g ref="char:EOLhyphen"/>dies love; and with the conſent of her Bro<g ref="char:EOLhyphen"/>ther and all the
+Nobility, he took her to wife; where a long and ſpacious time was ſpent in
+feaſting and merriment, to ſolem<g ref="char:EOLhyphen"/>nize the Royal and Nuptial bonds of
+Ma<g ref="char:EOLhyphen"/>trimony, which were made between the Em<g ref="char:EOLhyphen"/>perour and fair
+<hi>Belliſant,</hi> Siſter to the King of <hi>France.</hi>
+               </p>
+               <p>But now behold what came to paſs on the ſudden: There came a
+Poſt ſent from <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> to certifie the Emperour, that
+there was like to be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great
+inſurrection and <pb facs="tcp:59282:4"/>combuſtion in many of his Provinces, ex<g ref="char:EOLhyphen"/>cept
+his Highneſs would be pleaſed to make a ſpeedy return to his own Country,
+thereby to pacifie the outrages of the people, and re<g ref="char:EOLhyphen"/>new a ſettled
+peace.</p>
+               <p>The Emperour and his friends having ta<g ref="char:EOLhyphen"/>ken the matter into their
+conſideration, how that Diviſions might be a means to raiſe mute<g ref="char:EOLhyphen"/>nies,
+and mutenies to raiſe ſeditions, and ſedi<g ref="char:EOLhyphen"/>tions to raiſe civil wars,
+and that civil wars might bring ruine and deſtruction, both on himſelf and
+all his adherents for ever: There<g ref="char:EOLhyphen"/>fore he rather chuſing to forſake his
+pleaſures in <hi>France,</hi> than to endanger the ruine of his own Kingdom,
+took leave of his Brother the King of <hi>France,</hi> and the reſt of the
+Princes and Nobles of his Court; he prepared him<g ref="char:EOLhyphen"/>ſelf with his fair Bride,
+for their journey un<g ref="char:EOLhyphen"/>to their Court at <hi>Conſtántinople.</hi>
+               </p>
+               <p>Their departure cauſed great heavineſs at the Court,
+inſomuch that there was never more ſorrowful hearts, grieved minds, and
+weeping eyes than at that time, for the de<g ref="char:EOLhyphen"/>parture of that modeſt and well
+governed Lady, who with her Lord in ſhort ſpace ar<g ref="char:EOLhyphen"/>rived at their deſired
+Haven.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:59282:5"/>
+               <head>
+                  <hi>Chap. II.</hi> Of the treachery Practiſed by the
+Arch-Prieſt of <hi>Conſtantinople,</hi> againſt the fair Empreſs
+<hi>Belliſant.</hi>
+               </head>
+               <p>NO ſooner was the Emperour, and his fair Empreſs arrived at
+the Port of <hi>Conſtantinople,</hi> but they were entertained with as much
+joy and Solemnity, as if the Gods themſelves had deſcended from
+<hi>Olym<g ref="char:EOLhyphen"/>phus,</hi> to give welcome for thoſe long lookt for Gueſts: and
+for a congratulation they pre<g ref="char:EOLhyphen"/>pared all manner of dainty fare, all manner of
+rare Muſick, and all ſorts of rich Orna<g ref="char:EOLhyphen"/>ments fit for their wearing.</p>
+               <p>Many Kings, Princes, Lords, and La<g ref="char:EOLhyphen"/>dies came from other
+Countries, and pre<g ref="char:EOLhyphen"/>ſented many Rich and coſtly Gifts to the royal and
+beautiful Empreſs, the Lady <hi>Bel<g ref="char:EOLhyphen"/>liſant;</hi> and happy were they that
+could have ſo much Favour, as to kiſs her Princely hand.</p>
+               <p>But as <hi>Morpheus</hi> and <hi>Venus</hi> diſtracteth and
+troubleth Love-ſick perſons, whether they ſleep or wake, ſo doth
+Fortune and en<g ref="char:EOLhyphen"/>vy act their parts of cruelty and tyranny <pb facs="tcp:59282:5"/>amongſt
+the chief Monarchs and Princes, as may appear by thoſe Golden Pair of
+Turtles, the Emperour and his loving Mate. In that Court of great Magnificence
+there lived a ſuppoſed Religious man, whoſe title was Arch-Prieſt, or
+Arch-Biſhop: but he proved himſelf to be an Arch-Traitor, as you ſhall
+preſently hear.</p>
+               <p>This Arch-Prieſt was a great Favourite to the Emperour, and
+ſo well thought of in the Emperours Court among the Nobility, that
+whatſoever he ſaid was a Law: For if there was any one had any buſineſs
+with the Emperour, they could not get admittance without the Arch-Prieſts
+conſent: Which the Empreſs <hi>Belliſant</hi> perceiving, thinking him to
+be a juſt and upright man, afforded him the like reſpect as others did, and
+often<g ref="char:EOLhyphen"/>times in ſecret would reveal her mind unto him.</p>
+               <p>Upon a time it came to paſs, they being all alone together, he
+being filled with luſt and carnal deſire, burſt forth in theſe words
+unto her.</p>
+               <p>Moſt beauteous, fair and comely Lady, I your humble and
+devoted Servant, with all the reſpects belonging to ſuch a noble
+perſo<g ref="char:EOLhyphen"/>nage as you are, deſire the grant of one boon <pb facs="tcp:59282:6"/>unto, which
+if you perform, I am a liv<g ref="char:EOLhyphen"/>ing man, if you deny, you are a dead wo<g ref="char:EOLhyphen"/>man.</p>
+               <p>The Lady hearing him ſay ſo, anſwered him in this
+manner;</p>
+               <p>Sir, I am as yet but a ſtranger in this Empire, but yet will I
+afford you any thing that is mine to give, ſo far forth as reaſon doth
+require, and that my Princely Husband gives way to.</p>
+               <p>Then Madam, quoth he, this it is, I de<g ref="char:EOLhyphen"/>ſire your love,
+inſomuch that I may embrace the ſweet and pleaſant enjoyments of your
+love, and to do with you according to my will.</p>
+               <p>When the Lady heard him talk; and find<g ref="char:EOLhyphen"/>ing him to be luſtful
+minded, ſhe ſpake unto him in this manner.</p>
+               <p>O thou diſſembling hypocrite, thou falſe and faithleſs
+tyrant, thou blood ſucking traytor, thou perjured villain, how canſt thou
+for ſhame ask ſuch a queſtion of me? Didſt thou not once ſwear to be
+true to thy Lord and Maſter, and wilt thou now go about to raviſh his
+eſpouſed Wife? Depart from me, and for the fault thou wouldeſt have
+committed ask God forgiveneſs, and keep thine own counſel, and I will no
+fur<g ref="char:EOLhyphen"/>ther <pb facs="tcp:59282:6"/>ſpeak of it. When the wicked wretch had received his
+denial, he preſently depart<g ref="char:EOLhyphen"/>ed the Room, vowing to be avenged of the Lady:
+and ſo having laid a platform of miſ<g ref="char:EOLhyphen"/>chief in readineſs to work his
+deſign, went to the Emperour, and ſpake unto him in this ſort.</p>
+               <p>O my Noble Lord and Maſter I that have been all times well
+known to your ſelf your true and faithful ſervant, and beloved of all men
+for my loyalty to your Highneſs, I am now with grief of heart enforced to
+reveal a ſecret unto you, which is of great concern<g ref="char:EOLhyphen"/>ment: and this it is,</p>
+               <p>The Lady <hi>Belliſant</hi> your wife, which you thought to be
+ſo vertuous, chaſt, and honeſt, is known and found to be otherwiſe; For
+why, ſhe hath conſpired your Death, acted Treaſon againſt your
+perſon, and the Child which is now in her Womb is of another mans begetting:
+and therefore Noble Sir, I think there is no better courſe to be taken, than
+to ſend her away to <hi>France,</hi> from whence ſhe came, and that
+ſuddenly and privily, that the world may not take notice of what is done.</p>
+               <p>When the Emperour had heard this ſtrange Relation from the
+falſe diſſembling <pb facs="tcp:59282:7"/>Arch-traitor, his wrath was ſo much
+infla<g ref="char:EOLhyphen"/>med, that he had neither the Patience nor power to forbear, but
+preſently ran into the Room where his harmleſs Lady was ſitting all alone
+in her ſolitary dumps: So taking his advantage, ran ſtreightwaies unto her,
+and taking hold of her hair, pulled her to the ground, beat her on the face
+with his Fiſts, and ſtampt upon her with his feet, inſomuch that the
+blood iſſued out from her Noſe and mouth ſo violently, that the like
+was hardly ever ſeen.</p>
+               <p>But at laſt, when he had tired himſelf with abuſing this
+Lady, he ſtood panting for breath, thinking to have gone to her again.</p>
+               <p>Mean while ſhe was recovered upon her knees; and as ſhe was
+kneeling, ſhe ſpake to him ſaying,</p>
+               <p>O my dear Lord, what is the reaſon that without cauſe you
+deal thus cruelly with me? I deſire you, my good Lord, to ſpare me my life;
+if not for my own ſake, yet let it be done for the Infants ſake which is
+yet unborn.</p>
+               <p>Well quoth the Emperour, I will ſpare thee thy Life, but this
+ſhall be thy doom, that thou ſhalt for ever be baniſhed from my
+pre<g ref="char:EOLhyphen"/>ſence, <pb facs="tcp:59282:7"/>and be ſent to thy brother in <hi>France;</hi> with
+a writing upon thy breſt, for all that look on thee to read, how that for thy
+diſloy<g ref="char:EOLhyphen"/>alty to thy Husband, for thy Treacherous plots deviſed, and for the
+acting the part of a Strumpet, thou art baniſhed the Royal Court of
+<hi>Conſtantinople;</hi> and therefore pre<g ref="char:EOLhyphen"/>pare thy ſelf to night to be
+gone to morrow, for here is no longer time for you to abide.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:59282:8"/>
+               <head>
+                  <hi>Chap. III.</hi> How the Empreſs <hi>Belliſant,</hi>
+being baniſhed by the Emperour, travelled into <hi>France,</hi> and the
+ſtrange births of <hi>Valentine</hi> and <hi>Orſon.</hi>
+               </head>
+               <p>NOW when morning was come, the di<g ref="char:EOLhyphen"/>ſtreſſed Lady
+<hi>Belliſant</hi> was ſet on horſe<g ref="char:EOLhyphen"/>back, according to the Emperours
+command, having no other company to go along with her, but one man which was
+her ſervant, and came out of <hi>France</hi> with her. Now mark what happened
+to them in their journey: for the Proverb ſaith that one Swallow doth not
+make a Summer, neither doth one miſery go by it ſelf.</p>
+               <p>As they were paſſing through a huge and ſpacious
+Forreſt, the Lady found her ſelf grievouſly diſtreſſed: and being
+great with Child, alighted from her horſe, and ſent her ſervant to ſeek
+ſome woman to help her in her extremity, ſhe ſitting the whileſt under
+the boughs of a tree. The Gentleman with diligence made all the haſte he
+could poſſibly do, but before he returned back again the Lady was delivered
+of two Sons, of which an ugly ſhe-Bear coming along, <pb facs="tcp:59282:8"/>caught one
+of them up, and ran away with
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, carrying him to her
+D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, to be a prey
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or her young ones. The Lady
+purſued the bear to recover her ſon, but in vain, ſhe be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng alſo ſo weak, that ſhe
+could not return <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the place
+where ſhe had left her other Son.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the mean time, the King
+having that day been on hunting, chanc'd to find him, taking him up and putting
+him to nurſe, calling his name <hi>Valentine;</hi> Of whom you ſhall hear
+more hereafter, in the ſubſequent diſcourſe of his Hiſtory.</p>
+               <p>The Bear (as by providence it came to paſs) never devoured the
+child that ſhe car<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied to
+her Den, nor had her whelps any power at all to do it any harm, ſo that as
+the Bears young ones did ſuck her, ſhe gave ſuck
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the child alſo, till
+ſuch time that he became <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble to ſhift for himſelf. And when he came
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be of the age of a man, he
+had humane ſence <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike a
+man, but had not the ſpeech nor uſe of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny language at all, and was
+all overgrown with hair like unto a Bear, becauſe he had
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uckt of the Bears milk, he
+was alſo as wild <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s any
+ſavage beaſt that was in the Forreſt,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd did ſo many ſtrange
+exploits, deſtroying of men and women, that none durſt come near the place
+where he was.</p>
+               <pb facs="tcp:59282:9"/>
+               <p>The other brother was brought up in the Court of
+<hi>France,</hi> by the means of King <hi>Pe<g ref="char:EOLhyphen"/>pin,</hi> which was his own Uncle,
+although un<g ref="char:EOLhyphen"/>known to them both; and they called his name <hi>Valentine,</hi>
+and the wilde mans name they called <hi>Orſon.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb facs="tcp:59282:9"/>
+               <head>
+                  <hi>Chap. IV.</hi> How <hi>Valentine</hi> conquered
+<hi>Orſon,</hi> and brought him to the Royal Court of his <g ref="char:V">Ʋ</g>ncle King
+Pepin.</head>
+               <p>THis <hi>Valentine</hi> was of ſuch a Noble and heroick
+courage, and gallant behaviour, that he was known to be the chiefeſt and
+ableſt man at Arms that was in all the noted Court of <hi>France,</hi> and
+would encounter any man that came to oppoſe him.</p>
+               <p>This <hi>Valentine</hi> hearing the ſtrange reports of
+<hi>Orſon,</hi> how he overcame and conquer<g ref="char:EOLhyphen"/>ed all that ever came near him,
+reſolved on a time to try his valour, courage and magna<g ref="char:EOLhyphen"/>nimity, and venture
+his life with the wild man <hi>Orſon,</hi> not thinking he had been his
+brother.</p>
+               <p>And thus being couragiouſly mounted on horſeback, (rich and
+gallantly clad in Armour bright, with a moſt excellent ſword by his ſide)
+he rode to the ſpacious Foreſt, to find out the wild man, which he quickly
+did; and upon his near and ſudden approach, he found him prepared for the
+Combate, and rea<g ref="char:EOLhyphen"/>dy to encounter him; for indeed <hi>Orſon</hi> ne<g ref="char:EOLhyphen"/>ver 
+<pb facs="tcp:59282:10"/>went unprovided of his great Weapon, which was a mighty Club, made
+of an Oa<g ref="char:EOLhyphen"/>ken tree: with which at the firſt ſalute he gave
+<hi>Valentines</hi> Horſe ſuch a bang on the Noſe; that he beat out his
+brains; and then was <hi>Valentine</hi> bound to fight for his life, for to fly
+it was in vain.</p>
+               <p>Thus was the Combate with great courage renewed, and
+<hi>Valentine</hi> with his ſword and <hi>Orſon</hi> with his Club fought
+along time, and drew much blood of one another: But at the laſt
+<hi>Valentine</hi> through skill and policy van<g ref="char:EOLhyphen"/>quiſhed <hi>Orſon,</hi> who
+was far more ſtronger than himſelf: and having obtained an abſo<g ref="char:EOLhyphen"/>lute
+conqueſt, immediately after brought him bound to the King of <hi>France,</hi>
+where many ſtrange and wonderful atchivements were performed by thoſe two
+Noble brothers.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:59282:10"/>
+               <head>
+                  <hi>Chap. V.</hi> How <hi>Valentine</hi> and <hi>Orſon</hi>
+went to aſſiſt the the Duke of <hi>Aquitain:</hi> where <hi>Orſon</hi>
+conquered the Green Knight.</head>
+               <p>
+                  <hi>VAlentine</hi> and <hi>Orſon</hi> remaining in the Court,
+there arrived a meſſenger from the Duke of <hi>Aquitain;</hi> who bring
+admitted into the Kings preſence, ſaid as followeth: Moſt Mighty King, my
+Maſter the Duke of <hi>Aquitain,</hi> intreateth your Majeſty to
+commi<g ref="char:EOLhyphen"/>ſerate the ſad condition of him and his coun<g ref="char:EOLhyphen"/>try, being invaded by a
+Pagan, called the Green Knight, upon no other cauſe but to take away his only
+daughter, the fair La<g ref="char:EOLhyphen"/>dy Fezon, which he hath ſworn to effect, un<g ref="char:EOLhyphen"/>leſs by
+ſome worthy Chriſtian Knight he be vanquiſhed within forty daies: many
+have already adventured againſt him, all which he hath overcome, and hanged
+upon Trees. My maſter therefore humbly craves your Ma<g ref="char:EOLhyphen"/>jeſties
+aſſiſtance in this extremity. The King hearing this, promiſed him aid,
+and the meſ<g ref="char:EOLhyphen"/>ſenger departed.</p>
+               <p>The next day the King, with many hardy Knights amongſt whom
+was <hi>Valentine,</hi> who <pb facs="tcp:59282:11"/>alſo cauſed <hi>Orſon</hi> to go
+with him, being na<g ref="char:EOLhyphen"/>ked, except an iron Jacket, which <hi>Valentine</hi> had
+cauſed to be made for him, ſet forward towards <hi>Aquitain,</hi> where the
+Duke enter<g ref="char:EOLhyphen"/>tained them as befitted ſuch Royal perſona<g ref="char:EOLhyphen"/>ges, declaring all
+the deeds which the Green Knight had done, and the conqueſts he had made.</p>
+               <p>
+                  <hi>Valentine</hi> hearing this, determined to try the might of
+this Champion: So arming himſelf, he rode to his Tent. The Green Knight
+ſeeing him, preſently mounted his ſteed, and between them began a moſt
+cruel Combate, both giving and receiving many wounds; at length the Green
+Knight ſaid, Knight, thy valour cauſeth me to pity thee, therefore I
+adviſe thee to give over: For none can overcome me but the ſon of a King
+who never ſuckt the breaſt of a Woman, now if thou art ſuch a one thou
+maiſt over<g ref="char:EOLhyphen"/>come me, if not, thy fighting is vain. Not<g ref="char:EOLhyphen"/>withſtanding
+<hi>Valentine</hi> continued the fight till night parted them, and both betook
+them<g ref="char:EOLhyphen"/>ſelves to reſt.</p>
+               <p>
+                  <hi>Valentine</hi> conſidering the Green Knights words, and
+that himſelf had ſuckt the breaſts of a woman, determined to ſend
+<hi>Orſon</hi> to try his fortune with the Green Knight: So the <pb facs="tcp:59282:11"/>next day <hi>Valentine</hi> put his armour upon <hi>Orſon,</hi> who
+being mounted, rod to the Green Knight, between whom began a moſt fierce
+combate, <hi>Orſon</hi> giving him many wounds, which he immediately healed
+with Balſome that he had about him for that purpoſe.</p>
+               <p>
+                  <hi>Orſon</hi> ſeeing this, thought it in vain to uſe his
+ſword any longer, ſith he could heal him<g ref="char:EOLhyphen"/>ſelf ſo quickly; and caſting
+it away, he betook himſelf to his Nails, where with he ſo rent his armour,
+and wounded his fleſh, that he was conſtrained to fall, and ſubmit
+himſelf to the mercy of the conquerour. The King, <hi>Valentine,</hi> and the
+Duke being joyful of this victory, went to the Green Knight, who im<g ref="char:EOLhyphen"/>mediately
+relinquiſhed all his former pre<g ref="char:EOLhyphen"/>tenſions, conſenting to become a
+Chriſtian, and be baptized. So after ſome few daies ſpent in mirth and
+triumph, the King, <hi>Va<g ref="char:EOLhyphen"/>lentine</hi> and all the Noble Peers of
+<hi>France,</hi> ſo<g ref="char:EOLhyphen"/>lemnly took their leaves of the Duke, and his fair
+Daughter the Lady <hi>Fezon,</hi> and re<g ref="char:EOLhyphen"/>turned again to the Court.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb facs="tcp:59282:12"/>
+               <head>
+                  <hi>Chap. VI.</hi> How the Treaſon of the Arch-Prieſt was
+diſ<g ref="char:EOLhyphen"/>covered, and how the Emperour re-called the Lady <hi>Belliſant</hi>
+from baniſhment.</head>
+               <p>HAving thus preſented you with the diſ<g ref="char:EOLhyphen"/>loyal proceedings of
+the Arch-traytor, I ſhall now return to ſpeak of what became of him, who
+ſo perfidiouſly ſowed the ſeed of ſedition between the Emperour and
+the Lady <hi>Belliſant.</hi>
+               </p>
+               <p>The Arch-Prieſt perſiſting ſtill in this wicked quality,
+alwaies acting and plotting Treaſon againſt one or other, he thought at
+laſt to have been made Emperour himſelf: But it came to paſs, that by a
+miraculous means his treachery was found out, and he arraigned for treaſon,
+who having the ſentence of Death pronounced againſt him, confeſſed.
+That he had been a moſt horrible forſworn and perjured Villain, and that he
+had been a means to divide the Emperour from his gra<g ref="char:EOLhyphen"/>cious and faithful Lady,
+and how that all the things that were laid to her charge were falſe.</p>
+               <p>This and many other of his faults he <pb facs="tcp:59282:12"/>openly
+confeſſed before the Emperour and the reſt of his Noble Lords: but as the
+<hi>Old Pro<g ref="char:EOLhyphen"/>verb</hi> ſaith, <hi>For his open Confeſſion he had open
+Puniſhment:</hi> being adjudged for to ride upon a bare ridg'd Horſe, with
+his face towards the Horſe tail, then to be ſet three daies with his
+<hi>Ears faſt nailed to the Pillory and then his body to be taken and thrown
+into a Cauldron of boyling Lead,</hi> which was a juſt reward for a
+forſworn Traytor. And afterwards the Em<g ref="char:EOLhyphen"/>perour ſent for his Queen and
+ſettled her in her Royal Throne of dignity again, where they lived many happy
+years in joy and tran<g ref="char:EOLhyphen"/>quility. And as for their two valiant Sons,
+<hi>Valentine</hi> and <hi>Orſon,</hi> they became the braveſt men at Arms
+that ever <hi>Chriſtendom</hi> afforded: They conquered Gyants, ſubdued
+Sarazens, overcame Cities, deſtroyed Caſtles, and fought many famous and
+renowned battels againſt the Enemies of <hi>Chriſtendom,</hi> inſomuch
+that the whole world admired at their couragious enterpriſes and fortunate
+ſucceſs.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
